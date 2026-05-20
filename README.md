@@ -252,31 +252,6 @@ motto     : "Build systems that scale, write code that speaks."
 
 ---
 
-<!-- ─── NOW PLAYING ─────────────────────────────────────────────── -->
-
-## 🎧 &nbsp;Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=0a84ff)](https://open.spotify.com/user/)
-
-> 🎵 *Connect your Spotify account via **[novatorem](https://github.com/novatorem/novatorem)** to display real-time tracks.*
-
-</div>
-
----
-
-<!-- ─── DEV QUOTE ───────────────────────────────────────────────── -->
-
-## 💭 &nbsp;Dev Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote" width="85%"/>
-
-</div>
-
----
 
 <!-- ─── CODING MEME ─────────────────────────────────────────────── -->
 

@@ -1,286 +1,122 @@
-<!-- ============================================================
-     RAGHAV KHANDELWAL — GitHub Profile README
-     Premium Dark-Theme · AI Engineer · Backend Developer
-     ============================================================ -->
-
 <div align="center">
 
-<!-- ─── ANIMATED BANNER ─────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a84ff,100:0d1117&height=200&section=header&text=Raghav%20Khandelwal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20System%20Design%20%7C%20Backend%20Developer&descAlignY=60&descSize=18&descColor=58a6ff&animation=fadeIn" width="100%" alt="header"/>
+# Raghav Khandelwal
 
-<!-- ─── TYPING ANIMATION ──────────────────────────────────────── -->
-<a href="https://github.com/Raghav0819">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Building+Scalable+AI+Systems+%F0%9F%A4%96;Backend+%26+Full-Stack+Engineer+%F0%9F%9A%80;Multi-Agent+AI+%7C+LangChain+%7C+CrewAI+%F0%9F%A7%A0;Patent+Holder+%7C+Eyeconic+Smart+Glasses+%F0%9F%95%B6%EF%B8%8F;Clean+Architecture+%7C+System+Design+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
-</a>
+### AI Engineer • Backend Developer • Full-Stack Builder
 
-<br/><br/>
+I build practical AI applications, LLM-powered workflows, and backend systems — with a focus on useful products, reliable APIs, and clean architecture.
 
-<!-- ─── SOCIAL BADGES ─────────────────────────────────────────── -->
-<a href="https://linkedin.com/in/raghavkhandelwal19" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Raghav%20Khandelwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/Raghav0819" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Raghav0819-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/Gvhc8HsrAH/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Raghav0819&style=for-the-badge&color=0a84ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+<p>
+  <a href="https://linkedin.com/in/raghavkhandelwal19">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Raghav0819">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Raghav0819&style=for-the-badge&color=0969da&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
 </div>
 
 ---
 
-<!-- ─── ABOUT ME ───────────────────────────────────────────────── -->
+## About
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif"/>
+I'm a Computer Science student and developer interested in building software at the intersection of **AI, backend engineering, and product development**. I enjoy taking an idea from system design through implementation, integrating models and APIs, and building interfaces that make the result useful.
 
-### 👋 &nbsp;About Me
+- **AI engineering:** LLM applications, RAG, multi-agent workflows, NLP, and explainable AI
+- **Backend development:** Python, FastAPI, REST APIs, databases, and service integration
+- **Product development:** React-based interfaces, dashboards, and end-to-end application workflows
+- **Currently strengthening:** software engineering fundamentals, system design, and production-oriented application development
 
-```yaml
-name      : Raghav Khandelwal
-role      : AI Engineer & Backend Developer
-exp       : 3+ Years
-location  : India
-focus     :
-  - Scalable Product Development
-  - Clean Software Architecture
-  - AI-Powered Applications
-  - System Design & Backend Engineering
-domains   :
-  - Fintech Systems
-  - SaaS Platforms
-  - Multi-Agent AI
-  - Intelligent Dashboards
-patent    : Eyeconic Smart Glasses
-motto     : "Build systems that scale, write code that speaks."
-```
+I'm especially interested in opportunities where I can build, test, and improve real-world software alongside an engineering team.
 
-<br/>
-
-- 🔭 &nbsp;Actively building **AI tools**, **fintech systems**, and **SaaS products**
-- 🧠 &nbsp;Exploring **Multi-Agent AI**, **LangChain**, and **Explainable AI**
-- ⚙️ &nbsp;Passionate about **clean architecture** and **scalable system design**
-- 🏆 &nbsp;**Patent Holder** — Eyeconic Smart Glasses
-- 💬 &nbsp;Ask me about **FastAPI · LangChain · CrewAI · System Design · React**
-- 📫 &nbsp;Reach me on **[LinkedIn](https://www.linkedin.com/in/raghavkhandelwal19)**
-
-<br clear="right"/>
-
----
-
-<!-- ─── TECH STACK ─────────────────────────────────────────────── -->
-
-## 🛠️ &nbsp;Tech Stack
-
-<div align="center">
+## Tech Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,sql&theme=dark" alt="Languages" />
-
-**AI / Backend**
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" alt="Backend" />
-&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=1C3C3C" height="47" alt="LangChain"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=python&logoColor=white" height="47" alt="CrewAI"/>
-&nbsp;
-<img src="https://img.shields.io/badge/REST%20APIs-0a84ff?style=flat-square&logo=fastapi&logoColor=white" height="47" alt="REST APIs"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" alt="Frontend" />
-
-**Databases & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase&theme=dark" alt="Databases" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI / ML**
 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
-<img src="https://img.shields.io/badge/NLP-00897B?style=for-the-badge&logo=google&logoColor=white" alt="NLP"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Multi-Agent"/>
-<img src="https://img.shields.io/badge/Explainable%20AI-0a84ff?style=for-the-badge&logo=python&logoColor=white" alt="XAI"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-1565C0?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis"/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-**Tools**
+**Backend / Frontend**
 
-<img src="https://skillicons.dev/icons?i=git,vscode,jupyter&theme=dark" alt="Tools" />
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0A84FF?style=flat-square)
 
+**Data / Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## Selected Projects
+
+### Cognition MeetingOS — AI Meeting Workflow Assistant
+An AI-powered workflow designed to turn meeting conversations into structured, actionable outputs.
+
+- Designed a pipeline connecting a Chrome extension, FastAPI backend, multi-agent processing, and a React dashboard.
+- Uses specialized agents to identify tasks, decisions, and risks from meeting content.
+- **Focus areas:** LLM orchestration, backend APIs, agent workflows, and product integration.
+
+### Traffic-shield — Legal Rights Q&A with Source References
+A retrieval-augmented generation application for answering roadside legal-rights questions with supporting legal references.
+
+- Built a document-processing and retrieval pipeline using Chroma.
+- Designed responses to include relevant Act, section, and page references to make answers easier to verify.
+- **Focus areas:** RAG, retrieval quality, source-grounded answers, and service-based architecture.
+
+### Eyeconic — Glaucoma Detection / Smart Glasses Project
+A computer-vision project exploring AI-assisted eye screening and smart-glasses applications.
+
+- Worked with deep-learning approaches for image-based glaucoma detection.
+- **Focus areas:** computer vision, model evaluation, and applied AI.
+
+### House Price Prediction — Machine Learning
+A tabular machine-learning project comparing multiple models for house-price estimation.
+
+- Explored Random Forest, XGBoost, CatBoost, LightGBM, and a stacked ensemble.
+- Evaluated model performance using regression metrics.
+- **Focus areas:** feature-based modeling, model comparison, and evaluation.
+
+> Explore my repositories for source code, implementation details, and additional projects: [github.com/Raghav0819](https://github.com/Raghav0819?tab=repositories)
+
+## GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raghav0819&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav0819&layout=compact&hide_border=true&langs_count=6" alt="Most used languages"/>
 </div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav0819&hide_border=true" alt="GitHub contribution graph"/>
+</div>
+
+## Let's Connect
+
+I'm open to connecting with engineers, builders, and recruiters working on **AI applications, backend systems, and software engineering opportunities**.
+
+- LinkedIn: [linkedin.com/in/raghavkhandelwal19](https://linkedin.com/in/raghavkhandelwal19)
+- GitHub: [github.com/Raghav0819](https://github.com/Raghav0819)
 
 ---
 
-<!-- ─── GITHUB ANALYTICS ────────────────────────────────────────── -->
-
-## 📊 &nbsp;GitHub Analytics
-
 <div align="center">
-
-<a href="https://github.com/Raghav0819">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raghav0819&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/Raghav0819">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav0819&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9" alt="Top Languages"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/Raghav0819">
-  <img src="https://streak-stats.demolab.com?user=Raghav0819&theme=dark&hide_border=true&background=0d1117&ring=0a84ff&fire=ff6b6b&currStreakLabel=0a84ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ─── CONTRIBUTION GRAPH ──────────────────────────────────────── -->
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav0819&bg_color=0d1117&color=58a6ff&line=0a84ff&point=ffffff&area=true&area_color=0a84ff&hide_border=true&custom_title=Raghav's%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
-
-</div>
-
-<br/>
-
-<!-- ─── GITHUB TROPHIES ──────────────────────────────────────────── -->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Raghav0819&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="GitHub Trophies" width="95%"/>
-
-</div>
-
----
-
-<!-- ─── LEETCODE STATS ──────────────────────────────────────────── -->
-
-## 🧩 &nbsp;LeetCode Stats
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Gvhc8HsrAH/">
-  <img src="https://leetcard.jacoblin.cool/Gvhc8HsrAH?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=10" alt="LeetCode Stats" width="500"/>
-</a>
-
-</div>
-
----
-
-<!-- ─── PROJECTS ────────────────────────────────────────────────── -->
-
-## 🚀 &nbsp;Featured Projects
-
-> 🔗 &nbsp;Explore all my work at **[github.com/Raghav0819](https://github.com/Raghav0819)**
-
-<div align="center">
-
-<a href="https://github.com/Raghav0819">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raghav0819&repo=Raghav0819&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9" alt="Profile Repo"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- Project Cards Grid — Replace repo names with your actual repos -->
-<div align="center">
-
-| 🤖 AI Tools | ⚡ Backend Systems |
-|:-----------:|:------------------:|
-| Multi-Agent pipelines with LangChain & CrewAI | Scalable REST APIs with FastAPI & Node.js |
-| NLP & Explainable AI modules | Fintech backends with real-time processing |
-| **[→ View on GitHub](https://github.com/Raghav0819?tab=repositories)** | **[→ View on GitHub](https://github.com/Raghav0819?tab=repositories)** |
-
-| 🎨 SaaS & Dashboards | 🔬 Research / Patent |
-|:--------------------:|:--------------------:|
-| React + Tailwind full-stack SaaS platforms | Eyeconic Smart Glasses — Patented Project |
-| Real-time analytics dashboards | AI + IoT vision system |
-| **[→ View on GitHub](https://github.com/Raghav0819?tab=repositories)** | **[→ View on GitHub](https://github.com/Raghav0819?tab=repositories)** |
-
-</div>
-
----
-
-<!-- ─── SNAKE ANIMATION ─────────────────────────────────────────── -->
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raghav0819/Raghav0819/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raghav0819/Raghav0819/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Raghav0819/Raghav0819/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
-> 💡 **To enable the Snake animation**, add this GitHub Action at `.github/workflows/snake.yml`:
->
-> ```yaml
-> name: Generate Snake Animation
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: Raghav0819
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
-
-
-<!-- ─── CODING MEME ─────────────────────────────────────────────── -->
-
-## 😂 &nbsp;When the AI Finally Works
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="380" alt="Coding Meme" style="border-radius:12px"/>
-
-> *"It works... but I'm not exactly sure why."*
-
-</div>
-
----
-
-<!-- ─── FOOTER WAVE ─────────────────────────────────────────────── -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a84ff,100:0d1117&height=120&section=footer&fontSize=12&fontColor=58a6ff&animation=fadeIn" width="100%" alt="footer"/>
-
-<br/>
-
-**⭐ If you find my work valuable, consider starring a repo — it fuels more building!**
-
-<br/>
-
-*Built with precision · Powered by curiosity · Shipped with purpose*
-
-<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20%E2%98%95-0d1117?style=flat-square&labelColor=0d1117&color=0a84ff" alt="Made with love"/>
-
+  <sub>Building thoughtfully. Learning continuously. Shipping useful software.</sub>
 </div>
